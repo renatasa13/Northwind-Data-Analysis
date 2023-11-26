@@ -1,4 +1,4 @@
-# Northwind-Data-Analysis
+# Northwind Database Analysis Using SQL
 
 ## Data Understanding
 The Northwind database represents a fictional company that sells products to customers and manages various aspects of the business, such as orders, suppliers, employees, and products. This database has 14 tables and the table relationships are showcased in the following entity relationship diagram.
@@ -69,7 +69,7 @@ SELECT
 	e.title,
 	e.country,
 	EXTRACT (YEAR FROM AGE(now(), e.hire_date)) AS length_work,
-	COUNT(o.order_id) as total_orders
+	COUNT(o.order_id) as total_orders,
 	ROUND(SUM(od.unit_price * od.quantity)) AS total_amount
 FROM orders o JOIN employees e ON (o.employee_id = e.employee_id)
 JOIN order_details od ON (o.order_id = od.order_id)
