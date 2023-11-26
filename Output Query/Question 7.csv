@@ -1,0 +1,7 @@
+"shipper","phone","frequency","shipping_status"
+"United Package","(503) 555-3199",16,"Over Time"
+"Speedy Express","(503) 555-9831",12,"Over Time"
+"Federal Shipping","(503) 555-9931",9,"Over Time"
+"United Package","(503) 555-3199",11,"Package Lost"
+"Federal Shipping","(503) 555-9931",6,"Package Lost"
+"Speedy Express","(503) 555-9831",4,"Package Lost"

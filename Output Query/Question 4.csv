@@ -1,0 +1,30 @@
+"supplier_id","company_name","avg_reorder","avg_stock","avg_shipping","total_order"
+12,"Plutzer Lebensmittelgroßmärkte AG",15,47,8,179
+8,"Specialty Biscuits, Ltd.",8,21,8,164
+7,"Pavlova, Ltd.",10,21,7,163
+28,"Gai pâturage",0,50,6,105
+15,"Norske Meierier",11,52,8,105
+14,"Formaggi Fortini s.r.l.",13,6,7,104
+24,"G'day, Mate",11,19,7,98
+19,"New England Seafood Cannery",19,103,9,88
+20,"Leka Trading",13,23,8,82
+26,"Pasta Buttini s.r.l.",27,26,7,73
+29,"Forêts d'érables",8,49,8,72
+23,"Karkki Oy",20,44,9,70
+2,"New Orleans Cajun Delights",2,50,7,70
+25,"Ma Maison",15,66,8,69
+6,"Mayumi's",3,29,7,68
+16,"Bigfoot Breweries",14,52,7,65
+11,"Heli Süßwaren GmbH & Co. KG",14,39,8,59
+1,"Exotic Liquids",25,16,7,56
+3,"Grandma Kelly's Homestead",11,36,6,54
+18,"Aux joyeux ecclésiastiques",9,46,10,54
+5,"Cooperativa de Quesos 'Las Cabras'",22,39,7,52
+10,"Refrescos Americanas LTDA",0,20,8,51
+17,"Svensk Sjöföda AB",16,97,8,51
+4,"Tokyo Traders",1,24,7,51
+21,"Lyngbysild",5,64,6,41
+9,"PB Knäckebröd AB",25,79,7,34
+13,"Nord-Ost-Fisch Handelsgesellschaft mbH",15,10,6,32
+22,"Zaanse Snoepfabriek",6,31,8,27
+27,"Escargots Nouveaux",20,62,6,18
